@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @basmatti
+- 👀 I’m interested in ... games, code, data .
+- 🌱 I’m currently learning ... javascript !
+- 💞️ I’m looking to collaborate on ... things 2 learn .
+- 📫 How to reach me ... nick.pahaganas@gmail.com
